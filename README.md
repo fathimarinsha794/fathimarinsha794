@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 # Hi 👋, I'm Fathima Rinsha
@@ -471,4 +471,4 @@ If you find my work useful, consider giving my repositories a ⭐.
 />
 
 </div>
-```
+
