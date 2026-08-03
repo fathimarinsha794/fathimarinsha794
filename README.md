@@ -63,8 +63,8 @@ I enjoy transforming ideas into user-friendly digital products with clean interf
 
 ### Software Development Intern
 
-**YOUR_COMPANY_NAME**  
-`YOUR_START_DATE – YOUR_END_DATE`
+**Build Stack Labs**  
+
 
 - Developed responsive and reusable user interfaces using React.
 - Integrated frontend applications with REST APIs.
@@ -81,28 +81,11 @@ I enjoy transforming ideas into user-friendly digital products with clean interf
 
 **A modern Learning Management System for students and instructors.**
 
-<p>
-
-<img
-  src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"
-  alt="React"
-/>
-
-<img
-  src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"
-  alt="Node.js"
-/>
-
-<img
-  src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"
-  alt="Express.js"
-/>
-
-<img
-  src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
-  alt="PostgreSQL"
-/>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
 #### Key Features
@@ -321,21 +304,15 @@ Built user-facing interfaces, implemented food image upload workflows, connected
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fathimarinsha794&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&chart_color=4F8EF7&border_color=00000000&animation=load"
-  alt="Fathima Rinsha's GitHub statistics"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fathimarinsha794&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img
-  width="48%"
-  src="https://streak-stats.demolab.com/?user=fathimarinsha794&theme=transparent&hide_border=true&ring=4F8EF7&fire=4F8EF7&currStreakLabel=4F8EF7&border_radius=8"
-  alt="Fathima Rinsha's GitHub streak"
-/>
+<img height="170" src="https://streak-stats.demolab.com?user=fathimarinsha794&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -345,17 +322,7 @@ Built user-facing interfaces, implemented food image upload workflows, connected
 
 <div align="center">
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fathimarinsha794&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&chart_color=4F8EF7&border_color=00000000&animation=load"
-  alt="Languages used by repository"
-/>
-
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fathimarinsha794&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&chart_color=4F8EF7&border_color=00000000&animation=load"
-  alt="Languages used in commits"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathimarinsha794&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -365,14 +332,11 @@ Built user-facing interfaces, implemented food image upload workflows, connected
 
 <div align="center">
 
-<img
-  width="98%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fathimarinsha794&theme=transparent&title_color=4F8EF7&icon_color=4F8EF7&chart_color=4F8EF7&border_color=00000000&animation=draw"
-  alt="Fathima Rinsha's GitHub contribution graph"
-/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fathimarinsha794&theme=tokyo-night"/>
 
 </div>
 
+---
 ---
 
 ## 📚 Currently Learning
